@@ -1,0 +1,17 @@
+The kitchen was created
+Wrong input! the quantity of the Pasta is incorrect
+3 Pasta were added to table number 1
+2 Pasta were added to table number 1
+4 Pasta were added to table number 5
+1 Pasta was returned from table No.5
+3 Pasta was returned from table No.1
+Unable to clear the table! The table index is incorrect 
+Table No.5:
+ Product name: Pasta
+ Quantity: 3
+Total price: 90
+Table No.1:
+ Product name: Pasta
+ Quantity: 2
+Total price: 60
+The best seller dish is: Pasta, that dish was ordered 9 times

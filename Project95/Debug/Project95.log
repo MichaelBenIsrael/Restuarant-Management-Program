@@ -1,0 +1,10 @@
+﻿  restaurant.c
+C:\Users\Michael\source\repos\Project95\Project95\restaurant.c(10,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[51]'
+C:\Users\Michael\source\repos\Project95\Project95\restaurant.c(10,32): warning C4024: 'check_dish_name': different types for formal and actual parameter 2
+C:\Users\Michael\source\repos\Project95\Project95\restaurant.c(85,15): warning C4473: 'fprintf' : not enough arguments passed for format string
+C:\Users\Michael\source\repos\Project95\Project95\restaurant.c(85,15): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\Michael\source\repos\Project95\Project95\restaurant.c(85,15): message : the missing variadic argument 1 is required by format string '%s'
+C:\Users\Michael\source\repos\Project95\Project95\restaurant.c(133,16): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\Michael\source\repos\Project95\Project95\restaurant.c(152,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\source\repos\Project95\Project95\restaurant.c(91,17): warning C4101: 'temp_tm': unreferenced local variable
+  Project95.vcxproj -> C:\Users\Michael\source\repos\Project95\Debug\Project95.exe
